@@ -1,2 +1,2 @@
 # PdfAnalyzer
-analytics of PDF
+analytics of PDF with LLM
